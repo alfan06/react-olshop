@@ -1,0 +1,74 @@
+{
+    "microwave": [
+      {
+        "id": 1,
+        "nama": "OXONE 4 in 1 Oven 18lt Api Atas Bawah",
+        "harga": 999000,
+        "gambar": "https://cf.shopee.co.id/file/56f85fd2a0c85d8630b21e0d3c510da1",
+        "stok": 5
+      },
+      {
+        "id": 2,
+        "nama": "KONKA Oven Listrik pemanggang penghangat makanan daging kue bolu sosis bbq serbaguna Electric 13L",
+        "harga": 439000,
+        "gambar": "https://cf.shopee.co.id/file/3c1ccc4c5aca880030275bc7583f0918",
+        "stok": 4
+      },
+      {
+        "id": 3,
+        "nama": "SEKAI Oven Listrik Low Watt / Pemanggang Makanan Serbaguna 10L - OV 100",
+        "harga": 289500,
+        "gambar": "https://cf.shopee.co.id/file/d26b8599c55b8e75bc8c6af61c2708e9",
+        "stok": 4
+      },
+      {
+        "id": 4,
+        "nama": "Samsung MS23K3515AS Microwave [23 L]",
+        "harga": 1145000,
+        "gambar": "https://cf.shopee.co.id/file/70ba9ae753b4d499a2b17958684adb64",
+        "stok": 6
+      },
+      {
+        "id": 5,
+        "nama": "SHARP Microwave R-21D0(S)IN / R21DO",
+        "harga": 885000,
+        "gambar": "https://cf.shopee.co.id/file/a53b90946c45628a39bc35e2e11c5ad6",
+        "stok": 2
+      },
+      {
+        "id": 6,
+        "nama": "Panasonic NNST32HMTTE Microwave Digital 25 Liter 450 Watt",
+        "harga": 1699000,
+        "gambar": "https://cf.shopee.co.id/file/4040bad134d64a76323f29fd0d946f4c",
+        "stok": 4
+      },
+      {
+        "id": 7,
+        "nama": "Aqua Microwave Digital 17 Liter AEMS1812S Low Watt 400 Watt",
+        "harga": 860000,
+        "gambar": "https://cf.shopee.co.id/file/340d88b5103149e7b1904659fb7d6120",
+        "stok": 2
+      },
+      {
+        "id": 8,
+        "nama": "Electric Oven FINITO-2001 Kapasitas 20L LOW WATT",
+        "harga": 399.999,
+        "gambar": "https://cf.shopee.co.id/file/2dc1ec84769dffd958b65cd4b08fc563",
+        "stok": 4
+      },
+      {
+        "id": 9,
+        "nama": "Sharp Microwave 25 Liter Grill 1000 Watt - R728KIN Penghangat Makanan",
+        "harga": 1210000,
+        "gambar": "https://cf.shopee.co.id/file/25dfa444cb0aa3319af83aed6096bc32",
+        "stok": 3
+      },
+      {
+        "id": 10,
+        "nama": "Microwave Panasonic Low Watt 25 Liter 450 Watt NNSM32HMTTE",
+        "harga": 1488000,
+        "gambar": "https://cf.shopee.co.id/file/39d8a0d7699915624bb847e0119453d2",
+        "stok": 3
+      }
+    ]
+  }

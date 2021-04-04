@@ -1,0 +1,20 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "OXONE 4 in 1 Oven 18lt Api Atas Bawah",
+      "gambar": "https://cf.shopee.co.id/file/56f85fd2a0c85d8630b21e0d3c510da1",
+      "harga": 999000,
+      "stok": 5,
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "nama": "SEKAI Oven Listrik Low Watt / Pemanggang Makanan Serbaguna 10L - OV 100",
+      "gambar": "https://cf.shopee.co.id/file/d26b8599c55b8e75bc8c6af61c2708e9",
+      "harga": 289500,
+      "stok": 4,
+      "qty": 1
+    }
+  ]
+}
